@@ -18,12 +18,12 @@
 
     "AUTO_REPLY": {
       "description": "true",
-      "required": true
+      "required": false
     },
     
     "AUTO_RECORDING": {
       "description": "true",
-      "required": true 
+      "required": false 
     }   
 },
 
